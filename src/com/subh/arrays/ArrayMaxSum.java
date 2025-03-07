@@ -19,7 +19,7 @@ public class ArrayMaxSum {
 	}
    
 	public static void main(String[] args) {
-		int s[] = {1,-3,4,-5,67,89,-67,54};
+		int s[] = {1,-3,4,-5,67,89,-67,53,90};
              System.out.println("maxsum of na array "+maxsum(s));
 	}
 }
